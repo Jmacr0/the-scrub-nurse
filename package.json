@@ -1,0 +1,19 @@
+{
+  "name": "the-scrub-nurse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:fe": "cd ./client && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmacr0/the-scrub-nurse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jmacr0/the-scrub-nurse/issues"
+  },
+  "homepage": "https://github.com/Jmacr0/the-scrub-nurse#readme"
+}
